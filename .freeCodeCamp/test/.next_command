@@ -419,3 +419,7 @@ pwd
 lc
 list
 ls --color=auto
+clear
+pwd
+git status
+git add --all
