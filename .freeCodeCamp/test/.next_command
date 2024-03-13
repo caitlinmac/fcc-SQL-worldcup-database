@@ -423,3 +423,13 @@ clear
 pwd
 git status
 git add --all
+git status
+ls --color=auto
+git commit -m "FreeCodeCamp Relational Databases Project World Cup"
+git push
+pwd
+ls --color=auto
+cd World_Cup_Database_FCC_Project
+pwd
+git status
+git add --all
